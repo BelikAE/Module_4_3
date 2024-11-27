@@ -94,5 +94,12 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Data\free-icon-underlined-text-interface-button-58908.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Data\free-icon-bold-235524.png" />
+    <Resource Include="Data\free-icon-italic-142351.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
